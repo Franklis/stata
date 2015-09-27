@@ -1,0 +1,4 @@
+# stata
+* modus
+* mediaan
+* gemiddelde
